@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaDomain.DataModel", "Ni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjaDomain.DataModel2", "NinjaDomain.DataModel2\NinjaDomain.DataModel2.csproj", "{53ACDDE8-F35D-4852-9D08-79CEB33F3450}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDMXFromDB", "EDMXFromDB\EDMXFromDB.csproj", "{2137B1AD-192F-49B0-8BC2-C47B5FFA89E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeModelFromDB", "CodeModelFromDB\CodeModelFromDB.csproj", "{3650C350-32D2-44D1-8D7E-7B7E766DC8F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{53ACDDE8-F35D-4852-9D08-79CEB33F3450}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53ACDDE8-F35D-4852-9D08-79CEB33F3450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53ACDDE8-F35D-4852-9D08-79CEB33F3450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2137B1AD-192F-49B0-8BC2-C47B5FFA89E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2137B1AD-192F-49B0-8BC2-C47B5FFA89E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2137B1AD-192F-49B0-8BC2-C47B5FFA89E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2137B1AD-192F-49B0-8BC2-C47B5FFA89E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3650C350-32D2-44D1-8D7E-7B7E766DC8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3650C350-32D2-44D1-8D7E-7B7E766DC8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3650C350-32D2-44D1-8D7E-7B7E766DC8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3650C350-32D2-44D1-8D7E-7B7E766DC8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
